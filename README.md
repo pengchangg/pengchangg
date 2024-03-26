@@ -13,7 +13,7 @@ Directory: /home/pengchangg                   Shell: /usr/bin/zsh
 Project:
   - <a href="https://github.com/pengchangg/dotfiles">dotfiles</a>
   - Skill 
-    - language (GO|PHP|JAVASCRIPT|TYPESCRIPT|LUA) :>
+    - language ( Go | PHP | JavaScript | TypeScript | Lua | Shell | Openresty ) :>
     - DB （MYSQL|PG|REDIS)
     - TOOLS 
         - <a href="https://www.lazyvim.org/"> Lazyvim </a>
@@ -25,8 +25,6 @@ Project:
         - Macos
             - <a href="https://iterm2.com/">Iterm2</a>
             - <a href="https://www.raycast.com/">Raycast</a>
-Plan:
-  Learning \o/
 </pre>
 
 [**blog**](https://moxao.cn/)
