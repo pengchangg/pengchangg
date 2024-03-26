@@ -8,7 +8,7 @@ I'm Chang, a Full Stack Engineer.
 + a lot more :D
 
 ## Contact
-- [/](https://moxao.cn)
+- [BLOG](https://moxao.cn)
 <!--
 **pengchangg/pengchangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
