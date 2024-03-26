@@ -17,12 +17,14 @@ Project:
     - DB （MYSQL|PG|REDIS)
     - TOOLS 
         - <a href="https://www.lazyvim.org/"> Lazyvim </a>
-        - <a href="https://learn.microsoft.com/zh-cn/windows/terminal/install"> Terminal For Windows </a>
-        - <a href="https://https://github.com/microsoft/PowerToys"> PowerToys For Windows </a>
-    
         - <a href="https://www.google.com/chrome"> Chrome </a>
-        - <a href="https://iterm2.com/"> iterm2 For Macos </a>
-        - <a href="https://www.raycast.com/"> Raycast For Macos </a>
+
+        - Win
+            - <a href="https://learn.microsoft.com/zh-cn/windows/terminal/install"> Terminal</a>
+            - <a href="https://https://github.com/microsoft/PowerToys">PowerToys</a>
+        - Macos
+            - <a href="https://iterm2.com/">Iterm2</a>
+            - <a href="https://www.raycast.com/">Raycast</a>
 Plan:
   Learning \o/
 </pre>
