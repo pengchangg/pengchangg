@@ -1,5 +1,14 @@
-### Hi there 👋
+## Hey! 👋
+I'm Chang, a Full Stack Engineer.
 
+(a lot more ;)
+
+## Skills
+- 👨‍💻 TypeScript, JavaScript, Lua, C, Go, PHP, DB...
++ a lot more :D
+
+## Contact
+- [/](https://moxao.cn)
 <!--
 **pengchangg/pengchangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
