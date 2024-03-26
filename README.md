@@ -1,25 +1,20 @@
-## Hey! 👋
-I'm Chang, a Full Stack Engineer.
+<pre>
+    ___        ___         __       ___        ___       / __        ___         __       ___
+  //   ) )   //___) )   //   ) )  //   ) )   //   ) )   //   ) )   //   ) )   //   ) )  //   ) )
+ //___/ /   //         //   / /  ((___/ /   //         //   / /   //   / /   //   / /  ((___/ /
+//         ((____     //   / /    //__     ((____     //   / /   ((___( (   //   / /    //__
+</pre>
 
-(a lot more ;)
 
-## Skills
-- 👨‍💻 TypeScript, JavaScript, Lua, C, Go, PHP, DB...
-+ a lot more :D
+<pre>
+ ~> <strong>finger pengchangg</strong>
+Login: pengchangg                             Name: pengchangg
+Directory: /home/pengchangg                   Shell: /usr/bin/zsh
+Project:
+  - <a href="https://github.com/pengchangghli/dotfiles">dotfiles</a>
+  - Drafting (b|gem|ph|sh)log posts - but not publishing :>
+Plan:
+  Learning \o/
+</pre>
 
-## Contact
-- [BLOG](https://moxao.cn)
-<!--
-**pengchangg/pengchangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[**blog**](https://moxao.cn/)
