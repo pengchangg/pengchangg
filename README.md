@@ -6,22 +6,22 @@
  ( (__  )   / )__) / \_/ \ ) __/ ) _) \_/ \_/ ) _)  ) _)  )   /
   \___)(__\_)(____)/_/ \_/(__)  (____)\_/ \_/(____)(____)(__\_)
 ```
-### 后端 / 全栈工程师 · 开源爱好者
+### Backend / Full-Stack Engineer · Open Source Enthusiast
 
 </div>
 
 ---
 
-### 👋 关于我
+### 👋 About Me
 
-- 🔭 主攻 **Go** · **PHP** · **Lua (OpenResty)** · **TypeScript**
-- 🛢️ 数据库：MySQL · PostgreSQL · Redis
-- 🖥️ 环境：Arch Linux · macOS
-- 📧 联系：changpeng94@gmail.com
+- 🔭 Stack: **Go** · **PHP** · **Lua (OpenResty)** · **TypeScript**
+- 🛢️ Databases: MySQL · PostgreSQL · Redis
+- 🖥️ Environment: Arch Linux · macOS
+- 📧 Contact: changpeng94@gmail.com
 
 ---
 
-### 🛠️ 技术栈
+### 🛠️ Tech Stack
 
 ![](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -40,21 +40,21 @@
 
 ---
 
-### 📌 精选项目
+### 📌 Featured Projects
 
-| 项目 | 描述 |
-|------|------|
-| [**dotfiles**](https://github.com/pengchangg/dotfiles) | 🏠 个人 dotfiles — bash/zsh/tmux/nvim/starship/lf 全套开发环境 |
-| [**home-manager-config**](https://github.com/pengchangg/home-manager-config) | ❄️ Nix Home Manager 声明式配置 — 可复现的开发环境 |
-| [**r2-web**](https://github.com/pengchangg/r2-web) | 📁 Web 原生 Cloudflare R2 文件管理器，兼容 S3 API |
-| [**NodeWarden**](https://github.com/pengchangg/NodeWarden) | 🔐 基于 Cloudflare Workers 的 Bitwarden 第三方服务端 |
-| [**MD-Editor**](https://github.com/pengchangg/MD-Editor) | ✏️ 纯原生 JavaScript 在线 Markdown 编辑器 |
-| [**openresty-lua**](https://github.com/pengchangg/openresty-lua) | 🌐 OpenResty + Lua 脚本集 |
-| [**wrk-lua**](https://github.com/pengchangg/wrk-lua) | 📊 wrk 压测工具 + Lua 示例脚本 |
+| Project | Description |
+|---------|-------------|
+| [**dotfiles**](https://github.com/pengchangg/dotfiles) | 🏠 Personal dotfiles — bash, zsh, tmux, neovim, starship, lf |
+| [**home-manager-config**](https://github.com/pengchangg/home-manager-config) | ❄️ Declarative dev environment via Nix Home Manager |
+| [**r2-web**](https://github.com/pengchangg/r2-web) | 📁 Browser-native Cloudflare R2 file manager, S3-compatible |
+| [**NodeWarden**](https://github.com/pengchangg/NodeWarden) | 🔐 Bitwarden-compatible server on Cloudflare Workers |
+| [**MD-Editor**](https://github.com/pengchangg/MD-Editor) | ✏️ Vanilla JS online Markdown editor |
+| [**openresty-lua**](https://github.com/pengchangg/openresty-lua) | 🌐 OpenResty + Lua scripts |
+| [**wrk-lua**](https://github.com/pengchangg/wrk-lua) | 📊 HTTP benchmarking with wrk + Lua |
 
 ---
 
-### 📊 GitHub 统计
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=pengchangg&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" />
